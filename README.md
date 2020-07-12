@@ -1,6 +1,8 @@
 ## TV show manager
 Sample code of the case study assignment I did for an interview for an iOS dev position
 
+Used tech: Swift, MVVM + Coordinators(named `Modules` in app), ReactiveKit/Bond
+
 ## Documentation
 For this assignment, the goal is to create the “TV show manager app”. An app for people who watch so many tv shows that they can’t keep track of all of them without the help of an app.
 
